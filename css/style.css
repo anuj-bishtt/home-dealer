@@ -1,0 +1,219 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: -16px 0px 0px 0px;
+    background-color: #a01437;
+}
+
+ul li {
+    list-style: none;
+    display: inline;
+}
+
+h1,
+p {
+    color: #fff;
+}
+
+button {
+    background-color: #ed3462;
+    border: none;
+    font-size: 11px;
+    padding: 14px;
+    font-weight: bold;
+    color: #fff;
+    border-radius: 2px;
+}
+
+header {
+    background-image: url(../images/capa-min.jpg);
+    background-position: 40%;
+    background-size: 1540px;
+    background-repeat: no-repeat;
+    height: 715px;
+}
+
+a {
+    color: #ed3462;
+    text-decoration: none;
+}
+
+.lumiere {
+    padding: 250px;
+}
+
+.main-pro {
+    padding: 5px;
+    font-size: 45px;
+    margin: -250px 0px 0px 280px;
+    border-left: 2px solid rgb(255, 255, 255);
+}
+
+.num {
+    margin-left: 1350px;
+    margin-top: 240px;
+    font-size: 40px;
+}
+
+.know-top {
+    margin: 0px 0px 0px 288px;
+}
+
+.web-details li {
+    margin-left: 50px;
+    color: #fff;
+    font-size: small;
+}
+
+.web-details {
+    margin-left: 210px;
+}
+
+.house-details {
+    writing-mode: vertical-lr;
+    color: #fff;
+    margin-top: 100px;
+    margin-left: 1px;
+    font-weight: 700;
+}
+
+.house-details p {
+    margin: 400px 0px 0px 40px;
+}
+
+.house-carter {
+    background-image: url(../images/capa.jpg);
+    background-repeat: no-repeat;
+    height: 650px;
+    width: 379px;
+    background-position: 55%;
+    float: left;
+}
+
+.house-terrua {
+    background-image: url(../images/capa-1.jpg);
+    background-repeat: no-repeat;
+    height: 650px;
+    width: 379px;
+    background-size: 1150px;
+    background-position: 55%;
+    float: left;
+    margin-top: 30px;
+}
+
+.house-europe {
+    background-image: url(../images/capa-2.jpg);
+    background-repeat: no-repeat;
+    height: 650px;
+    width: 379px;
+    background-size: 1150px;
+    background-position: 55%;
+    float: left;
+}
+
+.house-das {
+    background-image: url(../images/capa-4.jpg);
+    background-repeat: no-repeat;
+    height: 650px;
+    width: 379px;
+    background-size: 1150px;
+    background-position: 55%;
+    float: left;
+    margin-top: 30px;
+}
+
+.navigation {
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+    padding: 50px 0px 50px 0px;
+}
+
+.right-nav {
+    margin-left: 150px;
+}
+
+.see-more{
+    font-size: 12px;
+    padding-top: 50px;
+}
+.more-about-desc h1{
+    font-weight: 900;
+    margin-left: 50px;
+}
+.more-about{
+    padding-top: 40px;
+}
+.more-about-desc p{
+    font-size: 12px;
+}
+.know{
+    margin-top: 50px;
+}
+.more-about-desc {
+    padding-left: 800px;
+    height: 450px;
+    background-color: #87102e;
+}
+.vougan{
+    margin-top: -20px;
+}
+
+.more-about img {
+    margin-top: -70px;
+    width: 700px;
+    height: 600px;
+    float: left;
+}
+
+.opportunities {
+    padding-top: 100px;
+    margin-top: 180px;
+    background-color: #fff !important;
+}
+
+.opportunities h1 {
+    font-weight: 800;
+    margin-left: 40px;
+    color: #585858;
+}
+
+.oppor {
+    margin-top: -12px;
+}
+
+.opportunities-desc {
+    margin-left: 200px;
+    float: left;
+}
+
+.opportunities-image img {
+    margin: -340.9px 0px 0px 960px;
+    width: 550px;
+    height: 550px;
+}
+
+.estate {
+    color: #9c9c9c;
+}
+.details-list{
+   color: #fff;
+   margin-left: 150px;
+}
+
+.social-link{
+    color: #fff;
+    margin-top: -38px;
+    margin-left: 1000px;
+}
+
+.details-list li{
+    margin-left: 60px;
+}
+
+.social-link li{
+    margin-left: 60px;
+}
